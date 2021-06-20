@@ -1,2 +1,2 @@
-# Robot-Arm-Task-1
+# Robot-Arm
 Project for SmartMethods Internship
